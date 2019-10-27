@@ -1,8 +1,6 @@
 # Appveyor To Dist Downloader
 
-.. image:: https://img.shields.io/pypi/v/appveyordist.svg
-    :target: https://pypi.python.org/pypi/appveyordist
-    :alt: Latest PyPI version
+[![Latest PyPI Version](https://img.shields.io/pypi/v/appveyordist.svg)](https://pypi.python.org/pypi/appveyordist)
 
 `appveyor-dist` is a script that pulls a project's artifacts
 to your local machine, normally into your `dist` directory.
