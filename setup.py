@@ -23,7 +23,7 @@ setup(
     author_email="mcfletch@vrplumber.com",
 
     description="Download appveyor build artefacts to project dist",
-    long_description=read("README.rst"),
+    long_description=read("README.md"),
 
     packages=find_packages(exclude=('tests',)),
 
